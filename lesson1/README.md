@@ -20,8 +20,9 @@ systemctl status mosquitto
 ```
 
 
-'''
+
+```
 分兩個terminal
 mosquitto_sub -h localhost -t 客廳/溫度
 mosquitto_pub -h localhost -t 客廳/溫度 -m "25度"
-'''
+```
