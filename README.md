@@ -1,6 +1,7 @@
-# __20251026__pi_pico_raspberry
-pi_pico_raspberry
+# __2025_10_26_chihlee_pi_pico__
+致理課程:樹莓派pico_w整合雲端物聯網運用實作班
 
+## 上課連結
+- 每次上課的連結
 
-# cursor
-curl -LsSf https://astral.sh/uv/install.sh | sh
+https://meet.google.com/tbt-cucv-ucg
